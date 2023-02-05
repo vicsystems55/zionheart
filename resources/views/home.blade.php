@@ -77,21 +77,21 @@
                         <div class="wow fadeInLeftSlow">
                             <span class="icon"><i class="fi flaticon-donation-1"></i></span>
                             <h3>Donation</h3>
-                            <p>Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+
                         </div>
                     </div>
                     <div class="col col-md-4">
                         <div class="wow fadeInLeftSlow" data-wow-delay="0.5s">
                             <span class="icon"><i class="fi flaticon-medical"></i></span>
                             <h3>Rebuild</h3>
-                            <p>Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+
                         </div>
                     </div>
                     <div class="col col-md-4">
                         <div class="wow fadeInLeftSlow" data-wow-delay="1s">
                             <span class="icon"><i class="fi flaticon-animal"></i></span>
                             <h3>Peace</h3>
-                            <p>Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+
                         </div>
                     </div>
                 </div> <!-- end row -->
@@ -106,7 +106,7 @@
                 <div class="row section-title-s4">
                     <div class="col col-md-8 col-md-offset-2">
                         <h2><span>Important</span> causes</h2>
-                        <p>perspiciatis unde omnis iste natus error accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</p>
+
                     </div>
                 </div> <!-- end section-title -->
 
@@ -124,7 +124,7 @@
                             <div class="content-details">
                                 <span>07 days left</span>
                                 <h3>Safe and reliable water matters</h3>
-                                <p>Nam consequat lacus purus, ac hendrerit ipsum pellen tesque ut auris orci ante.</p>
+                          
                                 <ul>
                                     <li>
                                         <h5>68.75%</h5>
@@ -262,8 +262,8 @@
                 <div class="row">
                     <div class="col col-md-4 left-col">
                         <i class="fi flaticon-agenda"></i>
-                        <h2>Events nearby</h2>
-                        <p>Aenean sed massa vel metus porttitor volutpat. Integer vehicula nisl at porttitor aliquet. Id dapibus tellus vel.</p>
+                        <h2>Events </h2>
+                        <p></p>
                     </div>
 
                     <div class="col col-md-8 right-col">
@@ -291,7 +291,7 @@
                                                     <div class="events-content">
                                                         <h3>Donation for flood affected.</h3>
                                                         <ul>
-                                                            <li><i class="fi flaticon-interface-1"></i> 19 feb, 2023</li>
+                                                            <li><i class="fi flaticon-interface-1"></i> 19 April, 2023</li>
                                                             <li><i class="fi flaticon-clock-1"></i> 09:30 AM</li>
                                                         </ul>
                                                     </div>
@@ -306,7 +306,7 @@
                                                     <div class="events-content">
                                                         <h3>Donation for flood affected.</h3>
                                                         <ul>
-                                                            <li><i class="fi flaticon-interface-1"></i> 19 feb, 2023</li>
+                                                            <li><i class="fi flaticon-interface-1"></i> 19 April, 2023</li>
                                                             <li><i class="fi flaticon-clock-1"></i> 09:30 AM</li>
                                                         </ul>
                                                     </div>
@@ -321,7 +321,7 @@
                                                     <div class="events-content">
                                                         <h3>Donation for flood affected.</h3>
                                                         <ul>
-                                                            <li><i class="fi flaticon-interface-1"></i> 19 feb, 2023</li>
+                                                            <li><i class="fi flaticon-interface-1"></i> 19 April, 2023</li>
                                                             <li><i class="fi flaticon-clock-1"></i> 09:30 AM</li>
                                                         </ul>
                                                     </div>
@@ -336,7 +336,7 @@
                                                     <div class="events-content">
                                                         <h3>Donation for flood affected.</h3>
                                                         <ul>
-                                                            <li><i class="fi flaticon-interface-1"></i> 19 feb, 2023</li>
+                                                            <li><i class="fi flaticon-interface-1"></i> 19 April, 2023</li>
                                                             <li><i class="fi flaticon-clock-1"></i> 09:30 AM</li>
                                                         </ul>
                                                     </div>
@@ -352,7 +352,7 @@
                                                     <div class="events-content">
                                                         <h3>Donation for flood affected.</h3>
                                                         <ul>
-                                                            <li><i class="fi flaticon-interface-1"></i> 19 feb, 2023</li>
+                                                            <li><i class="fi flaticon-interface-1"></i> 19 April, 2023</li>
                                                             <li><i class="fi flaticon-clock-1"></i> 09:30 AM</li>
                                                         </ul>
                                                     </div>
@@ -363,8 +363,8 @@
 
                                     <div class="tab-pane fade" id="volunteers">
                                         <h3>Our volunteers</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque odit labore a vero quis ratione expedita dolores blanditiis, magni officia illo dolor officiis porro placeat quibusdam quasi. Repudiandae optio, quod.</p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque odit labore a vero quis ratione expedita dolores blanditiis, magni officia illo dolor officiis porro placeat quibusdam quasi. Repudiandae optio, quod.</p>
+                                        <p>We welcome people who have the same drive and vision and who have the passion to stand for the rights of men, women and children. Summounting cultural and regious boundaries to empower the world, making it a better place for everyone</p>
+
                                     </div>
                                 </div>
                             </div>
@@ -502,7 +502,7 @@
                                     </div>
                                     <div id="collapseOne" class="panel-collapse collapse in">
                                         <div class="panel-body">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                            <p>Standing for the rights of men, women and children.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -513,18 +513,18 @@
                                     </div>
                                     <div id="collapseTwo" class="panel-collapse collapse">
                                         <div class="panel-body">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                            <p>Signup for our newsletter by providing your name, address and bio.</p>
                                         </div>
                                     </div>
                                 </div>
 
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
-                                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">Working process of the charit</a>
+                                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">Working process of the organization</a>
                                     </div>
                                     <div id="collapseThree" class="panel-collapse collapse">
                                         <div class="panel-body">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                            <p>We welcome people from all works of life.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -631,21 +631,21 @@
                             <i class="fi flaticon-eco-volunteer"></i>
                         </span>
                         <h3>Become <span>volunteer</span></h3>
-                        <p>Incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer cita tion.</p>
+
                     </div>
                     <div class="col col-sm-4">
                         <span class="icon">
                             <i class="fi flaticon-make-a-donation"></i>
                         </span>
                         <h3>Send <span>donation</span></h3>
-                        <p>Incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer cita tion.</p>
+
                     </div>
                     <div class="col col-sm-4">
                         <span class="icon">
                             <i class="fi flaticon-people"></i>
                         </span>
                         <h3>Sponsor <span>children</span></h3>
-                        <p>Incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer cita tion.</p>
+
                     </div>
                 </div>
 
@@ -679,7 +679,7 @@
                 <div class="row section-title-s4">
                     <div class="col col-md-8 col-md-offset-2">
                         <h2><span>Our</span> Gallery</h2>
-                        <p>Perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis</p>
+
                     </div>
                 </div> <!-- end section-title -->
 
@@ -867,7 +867,7 @@
 
 
         <!-- start partner -->
-        <section class="partner">
+        {{-- <section class="partner">
             <h2 class="hidden">Partner</h2>
             <div class="container">
                 <div class="row">
@@ -892,92 +892,12 @@
                     </div>
                 </div>
             </div> <!-- end container -->
-        </section>
+        </section> --}}
         <!-- end partner -->
 
 
         <!-- start footer -->
-        <footer>
-            <div class="container">
-                <div class="row upper-footer">
-                    <div class="col col-md-5 col-xs-6">
-                        <div class="widget about-widget">
-                            <div class="logo">
-                                <img src="images/logo.png" alt class="img img-responsive">
-                            </div>
-
-                            <div class="details">
-                                <p>Praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint.</p>
-                                <p class="copyright">
-                                    2023 &copy; All rights reserved by <span><a href="#">charity++</a></span>
-                                </p>
-                                <ul class="social-links">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col col-md-2 col-xs-6">
-                        <div class="widget">
-                            <h3>Company</h3>
-                            <ul>
-                                <li><a href="#">Who we are</a></li>
-                                <li><a href="#">Jobs</a></li>
-                                <li><a href="#">Press</a></li>
-                                <li><a href="#">Popular Campaigns</a></li>
-                                <li><a href="#">Career</a></li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <div class="col col-md-2 col-xs-6">
-                        <div class="widget">
-                            <h3>Help</h3>
-                            <ul>
-                                <li><a href="#">FAQ</a></li>
-                                <li><a href="#">Privacy Policy</a></li>
-                                <li><a href="#">Terms of use</a></li>
-                                <li><a href="#">Support</a></li>
-                                <li><a href="#">Regulations</a></li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <div class="col col-md-3 col-xs-6">
-                        <div class="widget contact-widget">
-                            <h3>Contact</h3>
-                            <div>
-                                <form action="#" class="form">
-                                    <div>
-                                        <input type="text" class="form-control" placeholder="your name" required>
-                                    </div>
-                                    <div>
-                                        <input type="email" class="form-control" placeholder="email address" required>
-                                    </div>
-                                    <div>
-                                        <textarea placeholder="write"></textarea>
-                                    </div>
-                                    <div>
-                                        <button class="btn theme-btn" type="submit">Send</button>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div> <!-- end upper-footer -->
-            </div> <!-- end container -->
-
-            <div class="row lower-footer">
-                <div class="col col-xs-12">
-                    <p>Made with <span></span> by <a href="http://themeforest.net/user/themexriver">Vicsystems Technologies Ltd.</a></p>
-                </div>
-            </div>
-        </footer>
+        @include('inc.footer')
         <!-- end footer -->
     </div>
     <!-- end of page-wrapper -->
