@@ -52,8 +52,8 @@
                 <div class="container">
                     <div class="banar-title">
                         <span>Africa</span>
-                        <h1>Help us to Feed A Child <br /> for a week</h1>
-                        <a href="#" class="btn theme-btn">Donate now</a>
+                        <h1>Reduce poverty and injustice in Nigeria, Africa, and worldwide.</h1>
+
                     </div>
                 </div>
             </div>
@@ -124,7 +124,7 @@
                             <div class="content-details">
                                 <span>07 days left</span>
                                 <h3>Safe and reliable water matters</h3>
-                          
+
                                 <ul>
                                     <li>
                                         <h5>68.75%</h5>
