@@ -107,7 +107,7 @@
                             <div class="details">
                                 <p>Praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint.</p>
                                 <p class="copyright">
-                                    2016 &copy; All rights reserved by <span><a href="#">charity++</a></span>
+                                    2023 &copy; All rights reserved by <span><a href="#">charity++</a></span>
                                 </p>
                                 <ul class="social-links">
                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -172,7 +172,7 @@
 
             <div class="row lower-footer">
                 <div class="col col-xs-12">
-                    <p>Made with <span><i class="fa fa-heart"></i></span> by <a href="http://themeforest.net/user/themexriver">Themexriver</a></p>
+                    <p>Made with <span></span> by <a href="http://themeforest.net/user/themexriver">Vicsystems Technologies Ltd.</a></p>
                 </div>
             </div>
         </footer>
