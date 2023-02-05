@@ -68,7 +68,7 @@
                 <div class="row section-title-s4">
                     <div class="col col-md-8 col-md-offset-2">
                         <h2><span>Our</span> mission</h2>
-                        <p>perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam</p>
+                        <p>Helping people rebuild their livelihoods and campaign for long-lasting changes keeping women’s rights at the heart of everything we do.</p>
                     </div>
                 </div> <!-- end section-title -->
 
