@@ -9,12 +9,12 @@
 
 
         <!-- start urgent-causes -->
-        <div class="urgent-causes-wrapper">
-            <div class="container open-urgent-causes">
+        {{-- <div class="urgent-causes-wrapper">
+            <div class="container open-urgent-causes d-none">
                 <button id="toggle-causes" class="btn"><i class="fa fa-angle-double-down"></i></button>
             </div>
 
-            <div class="urgent-causes">
+            <div class="urgent-causes d-none">
                 <div class="container">
                     <div class="row">
                         <div class="col col-md-5">
@@ -42,7 +42,7 @@
                     </div> <!-- end row -->
                 </div> <!-- end container -->
             </div>
-        </div>
+        </div> --}}
         <!-- end urgent-causes -->
 
 

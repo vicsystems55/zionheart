@@ -11,7 +11,7 @@
     <meta name="author" content="themexriver">
 
     <!-- Page Title -->
-    <title>Zion Heart - Nonprofit, Charity organization</title>
+    <title>Zion Height - Nonprofit, Charity organization</title>
 
     <!-- Favicon and Touch Icons -->
     <link href="images/favicon.png" rel="shortcut icon" type="image/png">

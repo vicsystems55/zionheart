@@ -1,7 +1,7 @@
         <!-- start preloader -->
         <div class="preloader">
             <div class="middle">
-                <i class="fi flaticon-animal"></i>
+                
             </div>
         </div>
         <!-- end preloader -->
