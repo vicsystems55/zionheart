@@ -33,6 +33,8 @@
                             <span class="icon"><i class="fa fa-map-marker"></i></span>
                             <h3>Address</h3>
                             <p>No. 02 2nd Parklands Avencue, Rimoro Road, Nairobi Kenya</p>
+                            <p>32 Calca Dorobanti, Bucharest, Romania</p>
+                            <p>50 ebitu ukiwe street jabi abuja</p>
                         </div>
                     </div>
                     <div class="col col-sm-4">
