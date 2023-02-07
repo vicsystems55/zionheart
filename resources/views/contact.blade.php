@@ -49,8 +49,8 @@
                         <div class="wow slideInUpSlow" data-wow-delay="0.4s">
                             <span class="icon"><i class="fa fa-fax"></i></span>
                             <h3>Phone</h3>
-                            <p>+1 702-692-7777</p>
-                            <p>+1 702-626-8888</p>
+                            <p>+1-8895101</p>
+                            <p>08095224343</p>
                         </div>
                     </div>
                 </div> <!-- end contact info -->
